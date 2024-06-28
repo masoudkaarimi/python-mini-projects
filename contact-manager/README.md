@@ -24,7 +24,7 @@ A contacts manager application built with Python and Tkinter.
 ## How to use
 
 - Clone the project
-- Install Python (v3.11.5)
+- Install Python (v3.x recommended).
 - Run `pip install -r requirements.txt` to install necessary dependencies.
 
 ## Run app

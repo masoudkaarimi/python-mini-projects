@@ -18,7 +18,7 @@ This script identifies and unfollows users who have stopped following you on Apa
 ## How to use
 
 - Clone the project
-- Install Python (v3.11.5)
+- Install Python (v3.x recommended).
 - Run `pip install -r requirements.txt` to install necessary dependencies.
 - Download `ChromeDriver` from [this link](https://developer.chrome.com/docs/chromedriver/downloads).
 - Copy the `chromedriver.exe` file to the `drivers` directory. If the directory does not exist, create it.

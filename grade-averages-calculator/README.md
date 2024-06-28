@@ -30,7 +30,7 @@ Max average is: 19.00 by Masoud
 ## How to use
 
 - Clone the project.
-- Install Python (v3.11.5)
+- Install Python (v3.x recommended).
 - Ensure you have a CSV file named `grades.csv` in the project directory. The CSV file should be formatted with each row containing a student's name followed by their numeric
   grades.
 

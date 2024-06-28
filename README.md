@@ -8,4 +8,5 @@ I put every mini-project I do here
 - [Contact Manager](./contact-manager)
 - [Grade Averages Calculator](./grade-averages-calculator)
 - [Snake Game](./snake-game)
+- [Video Duration Calculator](./video-duration-calculator)
 

@@ -28,7 +28,7 @@ This project is a Python-based implementation of the classic Snake game, utilizi
 ## How to use
 
 - Clone the project
-- Install Python (v3.11.5)
+- Install Python (v3.x recommended).
 - Run `cd code` change to the code directory
 - Run `pip install -r requirements.txt` to install necessary dependencies.
 
