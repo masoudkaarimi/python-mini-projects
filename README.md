@@ -6,4 +6,5 @@ I put every mini-project I do here
 
 - [Aparat Unfollow Finder](./aparat-unfollow-finder)
 - [Contact Manager](./contact-manager)
+- [Snake Game](./snake-game)
 
