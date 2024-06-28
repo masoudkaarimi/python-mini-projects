@@ -1,4 +1,4 @@
-``# Contacts Manager
+# Contacts Manager
 
 A contacts manager application built with Python and Tkinter.
 
