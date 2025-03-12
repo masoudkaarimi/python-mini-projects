@@ -1,5 +1,4 @@
-# Vanilla Python
-
+# Python Mini Projects
 I put every mini-project I do here
 
 ## Table of contents
