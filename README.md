@@ -8,4 +8,6 @@ I put every mini-project I do here
 - [Grade Averages Calculator](./grade-averages-calculator)
 - [Snake Game](./snake-game)
 - [Video Duration Calculator](./video-duration-calculator)
+- [CSV Encoding Converter](#csv-encoding-converter)
+
 
